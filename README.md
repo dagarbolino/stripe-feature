@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# This is a stripe feature with the price put in page.tsx and the stripe key in the .env.local file
+
 ## Getting Started
 
 First, run the development server:
